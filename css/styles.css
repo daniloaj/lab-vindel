@@ -3,7 +3,9 @@ body {
     padding-bottom: 3rem;
     color: #5a5a5a;
   }
-
+.centrado{
+   text-align: center;
+ }
  .imagendelogo{
      width: 40px;
      height: 40px;
